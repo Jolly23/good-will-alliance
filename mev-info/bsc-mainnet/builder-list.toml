@@ -5,43 +5,29 @@ Website = "https://example-builder.io"
 Description = "This is the fastest builder on BSC network"
 Contact = "example-builder@mail.com"
 
-[48club-puissant-builder-ap]
+[48club-puissant-builder-1]
 Address = "0x48a5Ed9abC1a8FBe86ceC4900483f43a7f2dBB48"
 RPC = "https://puissant-builder.48.club"
 Website = "https://www.48.club"
 Description = "Puissant means powerful in French."
 Contact = "puissant@48.club"
 
-[48club-puissant-builder-eu]
-Address = "0x487e5Dfe70119C1b320B8219B190a6fa95a5BB48"
-RPC = "https://puissant-builder.48.club"
-Website = "https://www.48.club"
-Description = "Puissant means powerful in French."
-Contact = "puissant@48.club"
-
-[48club-puissant-builder-us]
+[48club-puissant-builder-2]
 Address = "0x48FeE1BB3823D72fdF80671ebaD5646Ae397BB48"
 RPC = "https://puissant-builder.48.club"
 Website = "https://www.48.club"
 Description = "Puissant means powerful in French."
 Contact = "puissant@48.club"
 
-[48club-puissant-builder-x]
+[48club-puissant-builder-3]
 Address = "0x48B4bBEbF0655557A461e91B8905b85864B8BB48"
 RPC = "https://puissant-builder.48.club"
 Website = "https://www.48.club"
 Description = "Puissant means powerful in French."
 Contact = "puissant@48.club"
 
-[48club-puissant-builder-y]
+[48club-puissant-builder-4]
 Address = "0x4827b423D03a349b7519Dda537e9A28d31ecBB48"
-RPC = "https://puissant-builder.48.club"
-Website = "https://www.48.club"
-Description = "Puissant means powerful in French."
-Contact = "puissant@48.club"
-
-[48club-puissant-builder-z]
-Address = "0x48B2665E5E9a343409199D70F7495c8aB660BB48"
 RPC = "https://puissant-builder.48.club"
 Website = "https://www.48.club"
 Description = "Puissant means powerful in French."
